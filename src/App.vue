@@ -17,7 +17,8 @@ export default {
         username: 'raja mulimani',
         firstname: 'raja',
         lastname: 'mulimani',
-        isAdmin: true
+        isAdmin: true,
+        test: false
       }
     }
   },
