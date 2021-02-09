@@ -14,7 +14,7 @@ export default {
       followers: 0,
       user: {
         id: 1,
-        username: 'raja mulimani',
+        username: 'raja.mulimani',
         firstname: 'raja',
         lastname: 'mulimani',
         isAdmin: true
