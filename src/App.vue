@@ -18,7 +18,8 @@ export default {
         firstname: 'raja',
         lastname: 'mulimani',
         isAdmin: true,
-        test: false
+        test: false,
+        monkey: 'test'
       }
     }
   },
